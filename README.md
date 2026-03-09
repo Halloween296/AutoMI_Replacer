@@ -1,0 +1,2 @@
+# AutoMI_Replacer
+用于资产标准化并且避免场景内直接使用父材质无法合批带来额外的drawcall的工具
